@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 10px 0;
+  background: #f2f2f2;
+  font-family: Verdana, sans-serif;
+}
+
+.form-wrapper-div{
+	padding: 20px;
+}
+
